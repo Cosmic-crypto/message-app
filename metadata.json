@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Messenger",
+  "description": "A modern messaging application where you can chat with friends or create and talk to custom AI personalities powered by the Gemini API. All conversations are stored locally in your browser.",
+  "requestFramePermissions": []
+}
